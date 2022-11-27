@@ -17,8 +17,8 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <section className={"text-center"}>
-        <h1 className={"font-mono text-xl"}>💍 O poder dos cristais 💎</h1>
-        <p className={"font-serif text-black"}>
+        <h1 className={"font-mono text-2xl"}>💍 O poder dos cristais 💎</h1>
+        <p className={"font-serif text-lg md:w-[700px] mx-auto mt-10"}>
           Usar cristal ou ter um nas proximidades pode <strong>potencializar a nossa energia</strong> (cornalina laranja),{" "}
           <strong>purificar o ambiente</strong> (âmbar) e <strong>atrair riquezas</strong> (citrino). Os cristais podem mudar as
           nossas vidas. Quer mudar a sua ou de alguém?
