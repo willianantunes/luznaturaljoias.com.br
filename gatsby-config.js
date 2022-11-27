@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: `Luz Natural Jóias`,
-  description: `Realce a sua luz natural. Pedras, cristais e lindas jóias em prata 925.`,
+  title: `Luz Natural Joias`,
+  description: `Realce a sua luz natural. Pedras, cristais e lindas joias em prata 925.`,
   siteUrl: `https://luznaturaljoias.com.br`,
   social: {
     instagram: `https://www.instagram.com/luznaturaljoias`,
     whatsappWeb: `https://web.whatsapp.com/send?phone=5544988066705`,
-    whatsappMobile: `http://api.whatsapp.com/send?phone=5544988066705`,
+    whatsappMobile: `https://api.whatsapp.com/send?phone=5544988066705`,
   },
 }
 
